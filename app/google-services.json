@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "501152125153",
+    "project_id": "agendarhora-9093e",
+    "storage_bucket": "agendarhora-9093e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501152125153:android:63bc990666d6c52e5b67a0",
+        "android_client_info": {
+          "package_name": "br.com.bernardo.imatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501152125153-24328snihj37s57hmusro3o2q9t4hq0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.bernardo.imatch",
+            "certificate_hash": "03c9bc20d7897537c7513fff2be7dc42c4caec90"
+          }
+        },
+        {
+          "client_id": "501152125153-qc2e4kq3la2m81f98tsruan06rlgg3ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vYaofHbtxbCBNwy4mfK0hKCHQUFrld8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501152125153-qc2e4kq3la2m81f98tsruan06rlgg3ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501152125153:android:54217fb6f35b2cfa5b67a0",
+        "android_client_info": {
+          "package_name": "com.bernardo.agendamentos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501152125153-qc2e4kq3la2m81f98tsruan06rlgg3ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vYaofHbtxbCBNwy4mfK0hKCHQUFrld8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501152125153-qc2e4kq3la2m81f98tsruan06rlgg3ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501152125153:android:8ce64ef88dc8adef5b67a0",
+        "android_client_info": {
+          "package_name": "com.example.quadras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501152125153-qc2e4kq3la2m81f98tsruan06rlgg3ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vYaofHbtxbCBNwy4mfK0hKCHQUFrld8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501152125153-qc2e4kq3la2m81f98tsruan06rlgg3ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
